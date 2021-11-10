@@ -11,7 +11,7 @@
 	<h1>스프링 DI 테스트</h1>
 	<ol>
 		<li>
-			<a href="dependency.do"> DI란 ?</a>
+			<a href="dependency.do"> DI란 1?</a>
 		</li>
 		<li>
 			<a href="xmlDI.do">XML DI 사용하기</a>
