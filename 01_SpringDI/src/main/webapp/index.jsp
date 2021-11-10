@@ -17,7 +17,7 @@
 			<a href="xmlDI.do">XML DI 사용하기</a>
 		</li>
 		<li>
-			<a href="annoDI.do">어노테이션 DI 사용하기</a>
+			<a href="annoDI.do">어노테이션 DI 사용하기1</a>
 		</li>
 	</ol>
 	
