@@ -8,7 +8,7 @@
 </head>
 <body>
 	
-	<h1>스프링 DI 테스트</h1>
+	<h1>스프링 DI 테스트 커밋확인</h1>
 	<ol>
 		<li>
 			<a href="dependency.do"> DI란?</a>
